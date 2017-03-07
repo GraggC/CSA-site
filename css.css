@@ -1,0 +1,51 @@
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+}
+
+div {
+    height: 500px;
+    width: 500px;
+
+}
+p2 {
+    float: left;
+    border: 5px;
+    background-color: gray;
+}
+p3 { float: right;
+    background-color: grey;
+}
+p4 { 
+    width: 50px;
+    height: 180px;
+    background-color: grey;
+}
+a:link, a:visited {
+    padding: 7em;
+    background-color: blue;
+    color: white;
+    padding: 20px 50px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: lightblue;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 80%;
+}
+
+#snoopdoge {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
